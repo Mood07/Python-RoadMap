@@ -45,6 +45,7 @@ reference and a free learning resource for anyone starting their Python journey.
 
 ## 📚 Table of Contents
 - [How to Use](#how-to-use)
+- [Setup Guide for Absolute Beginners](#️-setup-guide-for-absolute-beginners)
 - [Curriculum](#curriculum)
 - [Folder Structure](#folder-structure)
 - [Requirements](#requirements)
@@ -63,6 +64,56 @@ python lesson.py
 ```
 
 > 💡 Open `.ipynb` files in Jupyter Notebook or VS Code for interactive experience.
+
+---
+
+## 🛠️ Setup Guide for Absolute Beginners
+
+> No prior programming experience needed. Every file starts from zero.
+
+### Step 1 — Install Python
+
+- Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
+- Download **Python 3.11 or higher**
+- During installation, **CHECK "Add Python to PATH"** (critical step — don't skip this)
+- Verify the installation: open a terminal and run:
+
+```bash
+python --version
+# Expected output: Python 3.11.x (or higher)
+```
+
+### Step 2 — Install VS Code (Recommended Editor)
+
+- Go to [https://code.visualstudio.com/](https://code.visualstudio.com/)
+- Download and install for your operating system
+- Open VS Code → go to the **Extensions** tab (Ctrl+Shift+X)
+- Search for **"Python"** (by Microsoft) and click Install
+
+### Step 3 — Install Jupyter Notebook Support
+
+Open your terminal and run:
+
+```bash
+pip install jupyter notebook
+```
+
+> This lets you open and run `.ipynb` files interactively inside VS Code.
+
+### Step 4 — Clone This Repository
+
+```bash
+git clone https://github.com/Mood07/Python-RoadMap.git
+cd Python-RoadMap
+pip install -r requirements.txt
+```
+
+### Step 5 — Start Learning
+
+1. Open `Week-01_Python_Basics/Day-01/lesson.py`
+2. Read the comments — every line is explained
+3. Try `exercises.py` yourself before looking at the solutions
+4. Open `lesson.ipynb` in VS Code for an interactive experience
 
 ---
 
