@@ -18,9 +18,9 @@ questions = [
         },
         "answer": "C",
         "explanation": (
-            "Floor division discards the fractional part. "
-            "17 / 5 = 3.4, floor toward negative infinity gives 3."
-        ),
+            "The // operator performs floor division, which removes the decimal part. "
+            "17 / 5 = 3.4, so the result is 3."
+        )
     },
     {
         "question": "Q2: What does 10 / 2 return in Python 3?",
