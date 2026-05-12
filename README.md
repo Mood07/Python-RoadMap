@@ -5,7 +5,7 @@
   <h1>Python RoadMap</h1>
 
   <p>
-    A complete Python → Data Analyst learning roadmap.<br/>
+    A complete Python → Data Science learning roadmap.<br/>
     Daily commits · Exercises · Quizzes · Projects · Notebooks
   </p>
 
@@ -37,13 +37,14 @@ This repository is a structured, beginner-friendly Python and Data Science roadm
 built with daily commits over 16 weeks. It serves as both a personal revision
 reference and a free learning resource for anyone starting their Python journey.
 
-**Created by:** Berke Arda Türk — Full Stack Developer & aspiring Data Analyst
-**Goal:** Python Developer + Data Analyst job-ready level
+**Created by:** Berke Arda Türk — CS Student | AI & Data Science @ Vizja University  
+**Goal:** Python Developer + Data Science job-ready level  
 **Commitment:** 5 files per day · Daily commits · 350+ total commits
 
 ---
 
 ## 📚 Table of Contents
+
 - [How to Use](#how-to-use)
 - [How to Study Each Day](#how-to-study-each-day)
 - [Setup Guide for Absolute Beginners](#️-setup-guide-for-absolute-beginners)
@@ -64,7 +65,7 @@ cd Week-01_Python_Basics/Day-01
 python lesson.py
 ```
 
-> 💡 Open `.ipynb` files in Jupyter Notebook or VS Code for interactive experience.
+> 💡 Open `.ipynb` files in Jupyter Notebook or VS Code for an interactive experience.
 
 ---
 
@@ -72,30 +73,34 @@ python lesson.py
 
 Follow this exact order for maximum learning:
 
-**Step 1 — Read the Lesson**
-Open `lesson.py` or `lesson.ipynb` and read it top to bottom.
-Run the code and observe every output.
+**Step 1 — Read the Lesson**  
+Open `lesson.py` or `lesson.ipynb` and read it top to bottom.  
+Run the code and observe every output.  
 Make sure you understand every line before moving on.
 
-**Step 2 — Take the Quiz**
+**Step 2 — Take the Quiz**  
 Run the interactive quiz:
+
 ```bash
 python quiz.py
 ```
-Answer all 5 questions.
-🎯 Goal: Score 5/5 before moving to exercises.
+
+Answer all 5 questions.  
+🎯 Goal: Score 5/5 before moving to exercises.  
 If you score less than 5/5, go back to `lesson.py`, review, then retake.
 
-**Step 3 — Solve the Exercises**
-Open `exercises.py` and solve each challenge yourself.
-Do NOT open `solutions.py` until you have tried your best.
+**Step 3 — Solve the Exercises**  
+Open `exercises.py` and solve each challenge yourself.  
+Do NOT open `solutions.py` until you have tried your best.  
 Each exercise is a small program — write real working code.
 
-**Step 4 — Check Your Solutions**
-Open `solutions.py` to compare your approach.
+**Step 4 — Check Your Solutions**  
+Open `solutions.py` to compare your approach.  
 Understanding WHY the solution works matters more than getting it right.
 
 > 💡 Struggle is where real learning happens. Don't skip to solutions too fast.
+
+---
 
 ## 🛠️ Setup Guide for Absolute Beginners
 
@@ -106,7 +111,7 @@ Understanding WHY the solution works matters more than getting it right.
 - Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
 - Download **Python 3.11 or higher**
 - During installation, **CHECK "Add Python to PATH"** (critical step — don't skip this)
-- Verify the installation: open a terminal and run:
+- Verify the installation:
 
 ```bash
 python --version
@@ -121,8 +126,6 @@ python --version
 - Search for **"Python"** (by Microsoft) and click Install
 
 ### Step 3 — Install Jupyter Notebook Support
-
-Open your terminal and run:
 
 ```bash
 pip install jupyter notebook
@@ -149,24 +152,26 @@ pip install -r requirements.txt
 
 ## 🗺️ Curriculum
 
-| Week | Topic | Level | Status |
-|------|-------|-------|--------|
-| 01 | Python Basics | 🟢 Beginner | 🔄 In Progress |
-| 02 | Control Flow | 🟢 Beginner | ⏳ Upcoming |
-| 03 | Functions | 🟢 Beginner | ⏳ Upcoming |
-| 04 | Data Structures | 🟢 Beginner | ⏳ Upcoming |
-| 05 | OOP | 🟡 Intermediate | ⏳ Upcoming |
-| 06 | File & Error Handling | 🟡 Intermediate | ⏳ Upcoming |
-| 07 | Modules & Packages | 🟡 Intermediate | ⏳ Upcoming |
-| 08 | Advanced Python | 🟡 Intermediate | ⏳ Upcoming |
-| 09 | NumPy | 🔵 Data Science | ⏳ Upcoming |
-| 10 | Pandas | 🔵 Data Science | ⏳ Upcoming |
-| 11 | Data Visualization | 🔵 Data Science | ⏳ Upcoming |
-| 12 | SQL + Python | 🔵 Data Science | ⏳ Upcoming |
-| 13 | API & Web Scraping | 🔴 Real World | ⏳ Upcoming |
-| 14 | Statistics & EDA | 🔴 Real World | ⏳ Upcoming |
-| 15 | Machine Learning Intro | 🔴 Advanced | ⏳ Upcoming |
-| 16 | Capstone Projects | 🔴 Advanced | ⏳ Upcoming |
+| Week | Topic                  | Level           | Status      |
+| ---- | ---------------------- | --------------- | ----------- |
+| 01   | Python Basics          | 🟢 Beginner     | ✅ Complete |
+| 02   | Control Flow           | 🟢 Beginner     | ⏳ Upcoming |
+| 03   | Functions              | 🟢 Beginner     | ⏳ Upcoming |
+| 04   | Data Structures        | 🟢 Beginner     | ⏳ Upcoming |
+| 05   | OOP                    | 🟡 Intermediate | ⏳ Upcoming |
+| 06   | File & Error Handling  | 🟡 Intermediate | ⏳ Upcoming |
+| 07   | Modules & Packages     | 🟡 Intermediate | ⏳ Upcoming |
+| 08   | Advanced Python        | 🟡 Intermediate | ⏳ Upcoming |
+| 09   | NumPy                  | 🔵 Data Science | ⏳ Upcoming |
+| 10   | Pandas                 | 🔵 Data Science | ⏳ Upcoming |
+| 11   | Data Visualization     | 🔵 Data Science | ⏳ Upcoming |
+| 12   | SQL + Python           | 🔵 Data Science | ⏳ Upcoming |
+| 13   | API & Web Scraping     | 🔴 Real World   | ⏳ Upcoming |
+| 14   | Statistics & EDA       | 🔴 Real World   | ⏳ Upcoming |
+| 15   | Machine Learning Intro | 🔴 Advanced     | ⏳ Upcoming |
+| 16   | Capstone Projects      | 🔴 Advanced     | ⏳ Upcoming |
+
+> ⚠️ Status is updated weekly as progress is made. Check back regularly!
 
 ---
 
@@ -195,23 +200,33 @@ Week-XX_Topic/
 pip install -r requirements.txt
 ```
 
-| Library | Purpose |
-|---------|---------|
-| numpy | Numerical computing |
-| pandas | Data manipulation |
-| matplotlib | Data visualization |
-| seaborn | Statistical visualization |
-| scikit-learn | Machine learning |
-| requests | HTTP & APIs |
-| beautifulsoup4 | Web scraping |
-| sqlalchemy | Database ORM |
-| jupyter | Notebook environment |
+| Library        | Purpose                   |
+| -------------- | ------------------------- |
+| numpy          | Numerical computing       |
+| pandas         | Data manipulation         |
+| matplotlib     | Data visualization        |
+| seaborn        | Statistical visualization |
+| scikit-learn   | Machine learning          |
+| requests       | HTTP & APIs               |
+| beautifulsoup4 | Web scraping              |
+| sqlalchemy     | Database ORM              |
+| jupyter        | Notebook environment      |
+
+---
+
+## 🤝 Contributing
+
+This is primarily a personal learning repository, but contributions are welcome!
+
+- Found a bug or typo? Open an **Issue**
+- Want to improve an exercise? Submit a **Pull Request**
+- Find it helpful? Leave a ⭐ — it means a lot!
 
 ---
 
 ## 📄 License
 
-MIT License — free to use, share, and build upon with attribution.
+MIT License — free to use, share, and build upon with attribution.  
 See [LICENSE](LICENSE) for details.
 
 ---
