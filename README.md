@@ -168,10 +168,10 @@ pip install -r requirements.txt
 | 07   | Modules & Packages     | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
 | 08   | Advanced Python        | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
 | 09   | NumPy                  | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
-| 10   | Statistics & EDA       | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
-| 11   | SQL                    | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
-| 12   | Pandas                 | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
-| 13   | Data Visualization     | 🔴 Real World   | 0/7       | ⏳ Upcoming    |
+| 10   | Pandas                 | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
+| 11   | Data Visualization     | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
+| 12   | Statistics & EDA       | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
+| 13   | SQL                    | 🔴 Real World   | 0/7       | ⏳ Upcoming    |
 | 14   | API & Web Scraping     | 🔴 Real World   | 0/7       | ⏳ Upcoming    |
 | 15   | Machine Learning Intro | 🔴 Advanced     | 0/7       | ⏳ Upcoming    |
 | 16   | Capstone Projects      | 🔴 Advanced     | 0/7       | ⏳ Upcoming    |
