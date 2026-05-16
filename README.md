@@ -169,7 +169,7 @@ pip install -r requirements.txt
 | 08   | Advanced Python        | 🟡 Intermediate | 0/7       | ⏳ Upcoming    |
 | 09   | NumPy                  | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
 | 10   | Statistics & EDA       | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
-| 11   | SQL + Python           | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
+| 11   | SQL                    | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
 | 12   | Pandas                 | 🔵 Data Science | 0/7       | ⏳ Upcoming    |
 | 13   | Data Visualization     | 🔴 Real World   | 0/7       | ⏳ Upcoming    |
 | 14   | API & Web Scraping     | 🔴 Real World   | 0/7       | ⏳ Upcoming    |
